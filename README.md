@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I'm would learning c, c++.
-##The Projekts here i will use to understand programming
+## I'm would like to learning C, C++.
+## The Projekts here i will use to understand programming
 
 <!--
 **Kebvink/Kebvink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
